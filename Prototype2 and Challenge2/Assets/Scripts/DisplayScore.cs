@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+ * Luke Lesimple
+ * Prototype 2
+ * manages score
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
